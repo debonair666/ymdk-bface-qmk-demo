@@ -1,0 +1,12 @@
+{
+  "keyboard_name": "debonair",
+  "manufacturer": "debonair",
+  "url": "debonair",
+  "maintainer": "debonair",
+  "usb": {
+    "vid": "0x594D",
+    "pid": "0x4266",
+    "device_version": "2.0.0"
+  },
+  "debounce": 5
+}
